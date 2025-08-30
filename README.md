@@ -20,3 +20,5 @@ Admin can update website name, footer description, and logo image. The logo and 
 
 **6) Upload & display post images**
 Admin can upload images while creating or editing posts. Images are stored in an upload folder with unique names. Posts dynamically display images on the front end.
+
+![image alt](https://github.com/Ramanshu02/News-Site/blob/88cca3f98d4691e526e7ac20cce05e4b1d9c425a/News-site.jpeg)
