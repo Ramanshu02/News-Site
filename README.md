@@ -13,3 +13,6 @@ Key Features:
 **5) Website settings with dynamic logo and footer -** Admin can update website name, logo image and footer description. Both the logo and footer content update dynamically across the site without manual code changes.
 
 **6) Upload & display post images -** Admin can upload images while creating or editing posts. Images are stored in an upload folder with unique names. Posts dynamically display images on the front end.
+
+
+![image alt](https://github.com/Ramanshu02/News-Site/blob/20bc950a552118238a6cd14e4e7de42ba8f0748b/News-site.jpeg)
