@@ -15,8 +15,9 @@ Admin can add multiple users. Role-based access: Admin → Full control (posts, 
 **4) Session-based authentication (secure login/logout)**
 Users must log in with valid credentials. Sessions prevent unauthorized access to the admin panel. Secure logout ensures no one can access data after logging out.
 
-**5) Website settings with dynamic logo**
-Admin can update website name, footer description, and logo image. The logo and settings update dynamically across the site.
+**5)  Website settings with dynamic logo and footer**
+• Admin can update website name, logo image and footer description.
+• Both the logo and footer content update dynamically across the site without manual code changes.
 
 **6) Upload & display post images**
 Admin can upload images while creating or editing posts. Images are stored in an upload folder with unique names. Posts dynamically display images on the front end.
